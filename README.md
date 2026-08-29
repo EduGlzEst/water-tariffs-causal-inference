@@ -13,6 +13,10 @@ To isolate the causal effect of tariffs from underlying socioeconomic factors, a
     $$P(D_{(i)}=1|X_{(i)})=F(X_{(i)}^{\prime}\beta)$$[cite: 1]
 *   **Control Variables (Covariates):** Population (2010), block area, average infrastructure leaks, infrastructure length, and network coverage per capita[cite: 1].
 *   **Balance:** Post-matching standardized differences were reduced significantly (e.g., Population difference dropped from 0.15 to 0.02), ensuring robust comparability between treatment and control groups[cite: 1].
+*   ### Covariate Balance (Post-Matching)
+![Balance Plot](balance_plot.png)
+*Figure: Standardized mean differences before (red) and after (green) matching, demonstrating successful bias reduction across all covariates.*
+
 
 ## 📊 Key Findings
 The empirical results reveal complex patterns and significant asymmetries in the effectiveness of the current tariff structure[cite: 1]:
