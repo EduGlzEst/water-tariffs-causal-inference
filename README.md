@@ -13,7 +13,7 @@ To isolate the causal effect of tariffs from underlying socioeconomic factors, a
 
 *   **Model Specification:** 
     $$Y_{(i)}=\alpha+\gamma D_{(i)}+\beta X_{(i)}+\epsilon_{(i)}$$.
-    $$P(D_{(i)}=1|X_{(i)})=F(X_{(i)}^{\prime}\beta)$$[cite: 1]
+    $$P(D_{(i)}=1|X_{(i)})=F(X_{(i)}^{\prime}\beta)$$
 *   **Control Variables (Covariates):** Population (2010), block area, average infrastructure leaks, infrastructure length, and network coverage per capita.
 *   **Balance:** Post-matching standardized differences were reduced significantly (e.g., Population difference dropped from 0.15 to 0.02), ensuring robust comparability between treatment and control groups.
 *   ### Covariate Balance (Post-Matching)
