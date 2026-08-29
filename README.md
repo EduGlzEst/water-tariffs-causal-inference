@@ -14,8 +14,8 @@ To isolate the causal effect of tariffs from underlying socioeconomic factors, a
 *   **Control Variables (Covariates):** Population (2010), block area, average infrastructure leaks, infrastructure length, and network coverage per capita[cite: 1].
 *   **Balance:** Post-matching standardized differences were reduced significantly (e.g., Population difference dropped from 0.15 to 0.02), ensuring robust comparability between treatment and control groups[cite: 1].
 *   ### Covariate Balance (Post-Matching)
-![Balance Plot](balance_plot.png)
-*Figure: Standardized mean differences before (red) and after (green) matching, demonstrating successful bias reduction across all covariates.*
+<img width="1568" height="894" alt="Captura de pantalla 2026-08-29 143031" src="https://github.com/user-attachments/assets/e6a1ceea-8d31-4a00-b0c8-f6ee4bbe15b6" />
+
 
 
 ## 📊 Key Findings
